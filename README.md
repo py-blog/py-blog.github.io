@@ -10,7 +10,7 @@ permalink: /
 
 熟练掌握bs4及爬虫知识
   
-<br/>
+---
 熟练操作mysql数据库
 
 熟练掌握flask
@@ -20,11 +20,11 @@ permalink: /
 熟练掌握正则表达式
 
   
-<br/>
+---
 规范良好的编码习惯
 
   
-<br/>
+---
 有过html+css+js前端开发经验
 
 有过asp.net及C# WinForm开发经验
