@@ -1,10 +1,10 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            大张Python笔记
+longtitle:        大张Python笔记
+author:           大张
+email:            py-code@outlook.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Linux,Python,Flask,English,Mysql,Front-End,Git,Pygame,Bs4,Regular Expression.
 
 version:          1.0
 gitbook_version:  3.2.3
