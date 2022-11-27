@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 大张Python笔记
+title: 个人简历
 permalink: /
 ---
 
