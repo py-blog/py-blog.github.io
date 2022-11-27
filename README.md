@@ -10,7 +10,7 @@ permalink: /
 
 熟练掌握bs4及爬虫知识
   
-
+<br/><br/>
 熟练操作mysql数据库
 
 熟练掌握flask
