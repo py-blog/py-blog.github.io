@@ -1,9 +1,9 @@
 ---
-title: Python
-author: Tao He
-date: 2022-09-04
-category: Jekyll
+title: Python笔记
+author: Zhang
+date: 2022-08-08
+category: code
 layout: post
 ---
 
-This is an about page.
+Python语法
