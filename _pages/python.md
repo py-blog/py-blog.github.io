@@ -1,5 +1,5 @@
 ---
-title: Python笔记
+title: Python语法
 author: Zhang
 date: 2022-08-08
 category: code
