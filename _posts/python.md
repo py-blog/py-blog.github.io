@@ -5,6 +5,7 @@ date: 2019-04-27
 category: Jekyll
 layout: post
 ---
+Python笔记
 
 GitBook is an amazing frontend style to present and organize contents (such as book chapters
 and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
