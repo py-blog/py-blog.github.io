@@ -2,7 +2,7 @@
 title: Linux
 author: Zhang
 date: 2022-08-09
-category: Jekyll
+category: code
 layout: post
 ---
 
