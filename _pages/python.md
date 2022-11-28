@@ -8,6 +8,7 @@ layout: post
 
 ```
 # Python装饰器本质上是对函数闭包的语法糖
+
 import time
 
 def count_time_wrapper(func):
