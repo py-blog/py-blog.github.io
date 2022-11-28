@@ -6,7 +6,7 @@ category: code
 layout: post
 ---
 
-```
+```python
 # Python装饰器本质上是对函数闭包的语法糖
 
 import time
