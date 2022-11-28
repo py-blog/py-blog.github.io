@@ -6,7 +6,7 @@ category: code
 layout: post
 ---
 
-```diff
+```yaml
 pwd,ls,cd,cd ..,cd .,cd /
 hostname,cat,more
 
