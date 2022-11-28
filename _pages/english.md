@@ -6,4 +6,4 @@ category: code
 layout: post
 ---
 
-英语学习记录
+You `are` like you Dad.
