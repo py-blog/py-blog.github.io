@@ -6,4 +6,4 @@ category: code
 layout: post
 ---
 
-You `are` like you Dad.
+You `are` like you dad.
