@@ -6,4 +6,11 @@ category: Jekyll
 layout: post
 ---
 
-Linux学习记录
+```
+pwd,ls,cd,cd ..,cd .,cd /
+hostname,cat,more
+
+管道：
+ls -lh | grep 123.txt
+把一个命令的输出，通过管道连接，作为另一个命令的输入。
+```
