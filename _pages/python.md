@@ -40,3 +40,6 @@ if __name__ == '__main__':
     # print_odds = count_time_wrapper(print_odds)
     print_odds()
 ```
+```python
+list(map(lambda x:x*x,[1,2,3]))
+```
