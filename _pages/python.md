@@ -62,3 +62,20 @@ atm = outer_fun()
 
 atm(10)
 ```
+```python
+# str-tools.py
+
+class StrTools:
+    pass
+
+str_tool = StrTools()
+
+# Singleton
+from str_tools import str_tool
+
+s1 = str_tool
+s2 = str_tool
+
+print(id(s1))
+print(id(s2))
+```
