@@ -43,3 +43,22 @@ if __name__ == '__main__':
 ```python
 list(map(lambda x:x*x,[1,2,3]))
 ```
+```python
+
+def outer_fun(initial_amount=0):
+
+    def inner_fun(num,deposit=True):
+        nonlocal initial_amount
+        if deposit:
+            initial_amount += num
+            print(f"存款： + {num},余额：{initial_amount}")
+        else:
+            initial_amount -= num
+            print(f"取款： - {num},余额：{initial_amount}")
+    
+    return inner_fun
+
+atm = outer_fun()
+
+atm(10)
+```
