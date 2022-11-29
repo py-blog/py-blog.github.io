@@ -230,3 +230,20 @@ cat = Cat()
 make_noise(dog)
 make_noise(cat)
 ```
+```python
+# Magic Method
+# __init__ __lt__ __str__ __le__ __eq__
+
+class Student:
+    def __init__(self,name,age) -> None:
+        self.name = name
+        self.age = age
+
+    def __lt__(self,other):
+        return self.age < other.age
+
+stu1 = Student('张三',20)
+stu2 = Student('李四',30)
+
+print(stu1 > stu2)
+```
