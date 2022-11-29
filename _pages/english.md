@@ -9,3 +9,5 @@ layout: post
 You `are` like you dad.
 
 UI Design `with` Qt.
+
+Python Tutorial `for` Beginners.
