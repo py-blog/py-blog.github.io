@@ -33,4 +33,4 @@ permalink: /
 
 有过C# Revit二次开发经验
 ---
-py-code@outlook.com
+<p align="right">py-code@outlook.com</p>
