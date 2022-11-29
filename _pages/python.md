@@ -44,7 +44,7 @@ if __name__ == '__main__':
 list(map(lambda x:x*x,[1,2,3]))
 ```
 ```python
-
+# nonlocal 在函数外部得到函数内的局部变量
 def outer_fun(initial_amount=0):
 
     def inner_fun(num,deposit=True):
