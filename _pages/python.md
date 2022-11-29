@@ -206,3 +206,27 @@ def get_files_recursion_from_dir(path):
 if __name__ == '__main__':
     print(get_files_recursion_from_dir("E:\test"))
 ```
+```python
+# polymorphism
+
+class Animal:
+    def speak(self):
+        pass
+
+class Dog(Animal):
+    def speak(se1f):
+        print("汪汪汪")
+
+class Cat(Animal):
+    def speak(se1f):
+        print("喵喵喵")
+
+def make_noise(animal:Animal):
+    animal.speak()
+
+dog = Dog()
+cat = Cat()
+
+make_noise(dog)
+make_noise(cat)
+```
