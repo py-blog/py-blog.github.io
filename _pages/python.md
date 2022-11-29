@@ -105,3 +105,24 @@ worker = factory.get_person('w')
 stu = factory.get_person('s')
 teacher = factory.get_person('t')
 ```
+```python
+import time
+import threading
+
+def sing():
+    while True:
+        print('sing...')
+        time.sleep(1)
+
+def dance():
+    while True:
+        print('dance...')
+        time.sleep(1)
+
+if __name__ == '__main__':
+    sing_thread = threading.Thread(target=sing)
+    dance_thread = threading.Thread(target=dance)
+
+    sing_thread.start()
+    dance_thread.start()
+```
