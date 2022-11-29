@@ -79,3 +79,29 @@ s2 = str_tool
 print(id(s1))
 print(id(s2))
 ```
+```python
+# Factory Pattern
+
+class Person:
+    pass
+class Worker(Person):
+    print('Worker')
+class Student(Person) :
+    print('Student')
+class Teacher(Person):
+    print('Teacher')
+
+class Factory:
+    def get_person(self, p_type):
+        if p_type == 'w':
+            return Worker()
+        elif p_type == 's':
+            return Student()
+        else:
+            return Teacher()
+
+factory = Factory()
+worker = factory.get_person('w')
+stu = factory.get_person('s')
+teacher = factory.get_person('t')
+```
