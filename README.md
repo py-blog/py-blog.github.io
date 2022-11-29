@@ -4,6 +4,11 @@ title: 个人简历
 permalink: /
 ---
 
+
+<p align="right">py-code@outlook.com</p>
+
+---
+
 熟练掌握linux操作
 
 熟练掌握python语法
